@@ -11,3 +11,5 @@ Is someone play in a starcraft 2? ;)
 Hello, I'm Lorelei
 test
 Привет:)
+All you must read this article http://www.rsdn.ru/article/tools/Git.xml before
+working with git.
