@@ -14,3 +14,4 @@ test
 All you must read this article http://www.rsdn.ru/article/tools/Git.xml before
 working with git.
 Hey, guys.. and girls :) Im Vnuuk.)
+.
